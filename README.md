@@ -1,3 +1,3 @@
-# Study-Kotlin
+# Study-Android
 
-### 코틀린 공부용
+### 안드로이드 공부용
